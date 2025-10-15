@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ffUcZnknhY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RaimaImran\\Desktop\\Job related\\EventManagement\\EventManagement.API\\EventManagement.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RaimaImran\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\RaimaImran\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

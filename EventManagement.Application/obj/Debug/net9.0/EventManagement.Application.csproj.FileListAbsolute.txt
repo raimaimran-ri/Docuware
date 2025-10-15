@@ -1,0 +1,15 @@
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\bin\Debug\net9.0\EventManagement.Application.deps.json
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\bin\Debug\net9.0\EventManagement.Application.dll
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\bin\Debug\net9.0\EventManagement.Application.pdb
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\bin\Debug\net9.0\EventManagement.Domain.dll
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\bin\Debug\net9.0\EventManagement.Domain.pdb
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\obj\Debug\net9.0\EventManagement.Application.csproj.AssemblyReference.cache
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\obj\Debug\net9.0\EventManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\obj\Debug\net9.0\EventManagement.Application.AssemblyInfoInputs.cache
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\obj\Debug\net9.0\EventManagement.Application.AssemblyInfo.cs
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\obj\Debug\net9.0\EventManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\obj\Debug\net9.0\EventMan.37F6A844.Up2Date
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\obj\Debug\net9.0\EventManagement.Application.dll
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\obj\Debug\net9.0\refint\EventManagement.Application.dll
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\obj\Debug\net9.0\EventManagement.Application.pdb
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\obj\Debug\net9.0\ref\EventManagement.Application.dll
