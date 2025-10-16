@@ -8,9 +8,13 @@ namespace EventManagement.Domain.Entities
     {
         [Key]
         public int id { get; set; }
+        [Required]
         public string name { get; set; }
+        [Required]
         public string description { get; set; }
+        [Required]
         public string location { get; set; }
+        [Required]
         public DateTime start_time { get; set; }
         public DateTime end_time { get; set; }
         public DateTime created_on { get; set; }

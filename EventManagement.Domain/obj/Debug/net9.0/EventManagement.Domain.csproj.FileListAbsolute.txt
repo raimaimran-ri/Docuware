@@ -9,3 +9,4 @@ C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Domain\o
 C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Domain\obj\Debug\net9.0\refint\EventManagement.Domain.dll
 C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Domain\obj\Debug\net9.0\EventManagement.Domain.pdb
 C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Domain\obj\Debug\net9.0\ref\EventManagement.Domain.dll
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Domain\obj\Debug\net9.0\EventManagement.Domain.sourcelink.json

@@ -9,3 +9,8 @@ C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Infrastr
 C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Infrastructure\obj\Debug\net9.0\refint\EventManagement.Infrastructure.dll
 C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Infrastructure\obj\Debug\net9.0\EventManagement.Infrastructure.pdb
 C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Infrastructure\obj\Debug\net9.0\ref\EventManagement.Infrastructure.dll
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Infrastructure\bin\Debug\net9.0\EventManagement.Domain.dll
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Infrastructure\bin\Debug\net9.0\EventManagement.Domain.pdb
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Infrastructure\obj\Debug\net9.0\EventManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Infrastructure\obj\Debug\net9.0\EventManagement.Infrastructure.sourcelink.json
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Infrastructure\obj\Debug\net9.0\EventMan.ACA7BF98.Up2Date

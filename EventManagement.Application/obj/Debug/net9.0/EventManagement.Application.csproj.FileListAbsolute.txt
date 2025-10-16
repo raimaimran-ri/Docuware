@@ -13,3 +13,4 @@ C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Applicat
 C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\obj\Debug\net9.0\refint\EventManagement.Application.dll
 C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\obj\Debug\net9.0\EventManagement.Application.pdb
 C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\obj\Debug\net9.0\ref\EventManagement.Application.dll
+C:\Users\RaimaImran\Desktop\Job related\EventManagement\EventManagement.Application\obj\Debug\net9.0\EventManagement.Application.sourcelink.json
