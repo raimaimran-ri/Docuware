@@ -26,6 +26,15 @@ namespace EventManagement.Infrastructure.Repositories
                 .ToListAsync();
         }
 
+        public async Task<IEnumerable<EventRegistration>> GetByEventIdAsync(int eventId)
+        {
+            return await _context.EventRegistrations
+                .Include(er => er.Event)
+                .Include(er => er.User)
+                .Where(er => er.event_id == eventId)
+                .ToListAsync();
+        }
+
         public async Task<EventRegistration> GetByIdAsync(int id)
         {
             return await _context.EventRegistrations

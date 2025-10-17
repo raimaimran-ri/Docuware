@@ -8,5 +8,6 @@ namespace EventManagement.Infrastructure.Interfaces
         Task<IEnumerable<EventRegistration>> GetAllAsync();
         Task AddAsync(EventRegistration eventRegistration);
         Task SaveChangesAsync();
+        Task<IEnumerable<EventRegistration>> GetByEventIdAsync(int eventId);
     }
 }
