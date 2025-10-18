@@ -9,5 +9,7 @@ namespace EventManagement.Infrastructure.Interfaces
         Task SaveChangesAsync();
         Task<User> GetByEmailAsync(string email);
         Task<bool> VerifyCredentialsAsync(string email, string password);
+        Task<bool> IsUserCreator(int userId);
+        Task<bool> IsEmailUnique(string email);
     }
 }

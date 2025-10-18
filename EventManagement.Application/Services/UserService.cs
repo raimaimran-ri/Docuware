@@ -4,6 +4,8 @@ using EventManagement.Application.Interfaces;
 using EventManagement.Domain.Entities;
 using EventManagement.Infrastructure.Interfaces;
 using Microsoft.Extensions.Logging;
+using BCrypt.Net;
+
 
 namespace EventManagement.Application.Services
 {
@@ -25,6 +27,7 @@ namespace EventManagement.Application.Services
             try
             {
                 var user = _mapper.Map<User>(dto);
+                user.password_hash = BCrypt.Net.BCrypt.HashPassword(dto.Password);
                 await _userRepository.AddAsync(user);
                 await _userRepository.SaveChangesAsync();
                 return true;
@@ -56,6 +59,7 @@ namespace EventManagement.Application.Services
         {
             try
             {
+                request.PasswordHash = BCrypt.Net.BCrypt.HashPassword(request.PasswordHash);
                 var isValid = await _userRepository.VerifyCredentialsAsync(request.Email, request.PasswordHash);
                 if (!isValid)
                 {

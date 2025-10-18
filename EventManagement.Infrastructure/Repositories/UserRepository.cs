@@ -34,6 +34,26 @@ namespace EventManagement.Infrastructure.Repositories
                 .FirstOrDefaultAsync(u => u.id == id);
         }
 
+        public async Task<bool> IsEmailUnique(string email)
+        {
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.email == email);
+            return user == null;
+        }
+
+        public Task<bool> IsUserCreator(int userId)
+        {
+            var user = _context.Users
+                .Include(u => u.User_role)
+                .FirstOrDefault(u => u.id == userId);
+
+            if (user != null && user.User_role != null && user.User_role.name == "EventCreator")
+            {
+                return Task.FromResult(true);
+            }
+
+            return Task.FromResult(false);
+        }
+
         public async Task SaveChangesAsync()
         {
             await _context.SaveChangesAsync();
